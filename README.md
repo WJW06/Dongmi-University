@@ -1,4 +1,6 @@
-﻿git config --global user.email "wijawoo@gmail.com"
+﻿#동양미래대학교 수업 정리표 저장소
+
+git config --global user.email "wijawoo@gmail.com"
  
 git config --global user.name "WJW06"
 
